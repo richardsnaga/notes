@@ -14,4 +14,4 @@ and then
 
 # End Point
 
-To test all the endpoint, open use file in folder rar with postman
+To see endpoint, open file tes.rest
